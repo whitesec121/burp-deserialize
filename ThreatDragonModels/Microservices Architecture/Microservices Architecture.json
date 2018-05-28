@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Microservices Architecture",
+    "owner": "Jyoti Acharya",
+    "description": "This is a basic threat model for a common micro service architecture"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Srimant Acharya"
+  }
+}
